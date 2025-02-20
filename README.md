@@ -27,6 +27,6 @@ Antes de começar, certifique-se de ter instalado:
 1️⃣ Clone o repositório:
 
 ```sh
-git clone https://github.com/seu-usuario/azure-auth-frontend.git
+git clone https://github.com/lhpvolpi/azure-auth-frontend.git
 cd azure-auth-frontend
 ```
