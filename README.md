@@ -18,7 +18,7 @@ Este é o **frontend** de um projeto de autenticação utilizando **Azure Entra 
 Antes de começar, certifique-se de ter instalado:
 
 - **Node.js** (versão recomendada: **18.x** ou superior)
-- **NPM** (ou Yarn)
+- **NPM**
 
 ---
 
@@ -29,4 +29,20 @@ Antes de começar, certifique-se de ter instalado:
 ```sh
 git clone https://github.com/lhpvolpi/azure-auth-frontend.git
 cd azure-auth-frontend
+```
+
+## 📥 **Instalação**
+
+1️⃣ Instale dependências:
+
+```sh
+npm install
+```
+
+## ▶️ Executando o Projeto
+
+1️⃣ Inicie o servidor de desenvolvimento:
+
+```sh
+npm start
 ```
